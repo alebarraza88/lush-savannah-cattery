@@ -50,8 +50,7 @@ button {
 header {
     
     height: 800px;
-    background: url(file:///Users/nayelibarraza/Documents/responsive-websites/lush-savannah-cattery/img/lush-full-background.jpg
-    );
+    background: url(img/lush-full-background.jpg);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
